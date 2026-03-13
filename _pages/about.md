@@ -1,8 +1,13 @@
 ---
-permalink: /about/
 title: "About"
+layout: single
+permalink: /about/
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am an aspiring Data Analyst with a strong interest in transforming data into meaningful business insights.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+With previous experience in administrative and operational roles, I developed strong attention to detail and structured problem solving.
+
+I completed intensive full-stack data analytics training at RevoU, where I learned to translate business problems into analytical approaches using SQL, Python, and Tableau.
+
+I am currently seeking an entry-level Data Analyst role where I can apply my analytical skills to support data-driven decision making.
