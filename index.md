@@ -3,8 +3,8 @@ layout: splash
 title: "Lutfi Luthoifi"
 permalink: /
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.4"
+  overlay_image: /assets/images/data-bg.jpg
+  overlay_filter: 0.5
   caption: "Data Analyst Portfolio"
 actions:
   - label: "View Projects"
@@ -15,9 +15,9 @@ actions:
 
 ## Aspiring Data Analyst
 
-I transform raw data into meaningful insights using **SQL, Python, and Tableau**.
+I transform raw data into **actionable business insights** using **SQL, Python, and Tableau**.
 
-Through hands-on analysis projects, I identify performance gaps, measure business impact, and translate findings into actionable recommendations.
+Through hands-on analytics projects, I analyze operational performance, identify risk factors, and translate data findings into clear recommendations that support better decision-making.
 
 ---
 
@@ -25,35 +25,33 @@ Through hands-on analysis projects, I identify performance gaps, measure busines
 
 ### Supply Chain Delivery Delay Risk Analysis
 
-Analyzed **108K+ supply chain records** to identify the main drivers of delivery delays.
+Analyzed **108K+ supply chain records** to investigate operational delivery performance.
 
-Key insight:
+**Key finding**
 
-**57.3% late delivery rate**, with shipping mode identified as the primary contributor.
+57.3% of deliveries were late, with **shipping mode identified as the primary driver** of delays.
 
-[View Full Project](/projects/)
+[View Full Case Study →](/projects/)
 
 ---
 
 ## Core Skills
 
 **Data Analysis**
-
-- Data Cleaning  
-- Exploratory Data Analysis  
-- KPI Measurement  
+- Data Cleaning
+- Exploratory Data Analysis
+- KPI Measurement
 
 **Tools**
-
-- SQL  
-- Python  
-- Tableau  
-- Excel / Google Sheets  
+- SQL
+- Python
+- Tableau
+- Excel / Google Sheets
 
 ---
 
-## Contact
+## Let's Connect
 
-LinkedIn: https://linkedin.com/in/lutfiluthoifi  
-Tableau: https://public.tableau.com/app/profile/lutfi.luthoifi  
-Email: lutfiluthoifi16@gmail.com
+- LinkedIn: https://linkedin.com/in/lutfiluthoifi  
+- Tableau: https://public.tableau.com/app/profile/lutfi.luthoifi  
+- Email: lutfiluthoifi16@gmail.com
