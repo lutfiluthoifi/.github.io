@@ -7,7 +7,7 @@ permalink: /skills/
 ## Technical Skills
 
 SQL  
-Python (Pandas, NumPy)  
+Python  
 Data Cleaning  
 Exploratory Data Analysis  
 KPI Measurement  
