@@ -16,4 +16,4 @@ Tools used:
 - SQL
 - Tableau
 
-[View Tableau Dashboard](https://public.tableau.com/app/profile/lutfi.luthoifi)
+[View Tableau Dashboard](https://public.tableau.com/app/profile/lutfi.luthoifi/viz/DEEPP1_17699608370300/Dashboard1)
